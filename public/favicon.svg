@@ -1,10 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <!-- Outer border background (Lighter Blue) -->
-  <rect width="512" height="512" rx="128" fill="#3B82F6" />
-  <!-- Inner terminal background (Deep Blue) -->
-  <rect x="56" y="56" width="400" height="400" rx="96" fill="#1E40AF" />
-  <!-- Terminal Arrow Segment -->
-  <path d="M 150 160 L 260 256 L 150 352" stroke="#FFFFFF" stroke-width="52" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-  <!-- Terminal Underscore Segment -->
-  <path d="M 280 352 L 390 352" stroke="#E0E7FF" stroke-width="52" stroke-linecap="round" fill="none" />
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="10" fill="white"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="12" letter-spacing="-0.05em" fill="black">ORΛR</text>
 </svg>
